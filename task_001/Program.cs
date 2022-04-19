@@ -1,9 +1,9 @@
 ﻿// По двум заданным числам проверять является ли первое квадратом второго
 
-int numberA = new Random().Next(1, 101); // 1 2 3 4 ... 100
+int numberA = new Random().Next(1, 101); // Случайное число от 1 до 100(1, 101-1)
 Console.WriteLine("numberA = " + numberA);
 
-int numberB = new Random().Next(1, 11); // 1 2 3 4 ... 10
+int numberB = new Random().Next(1, 11); // Случайное число от 1 до 10(1, 11-1)
 Console.WriteLine("numberB = " + numberB);
 
 if (numberA == numberB * numberB)
