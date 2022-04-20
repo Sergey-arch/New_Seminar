@@ -1,4 +1,4 @@
-﻿// Вывести квадрат числа
+﻿// Вывести квадрат числа (Print the square of the number)
 
 int num = new Random().Next(1, 10); // Случайное число от 1 до 9(1, 10-1)
 Console.WriteLine("num = " + num);
