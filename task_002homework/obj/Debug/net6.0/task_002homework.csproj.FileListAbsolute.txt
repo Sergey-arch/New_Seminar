@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\bin\Debug\net6.0\task_002homework.exe
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\bin\Debug\net6.0\task_002homework.deps.json
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\bin\Debug\net6.0\task_002homework.runtimeconfig.json
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\bin\Debug\net6.0\task_002homework.dll
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\bin\Debug\net6.0\task_002homework.pdb
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\task_002homework.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\task_002homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\task_002homework.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\task_002homework.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\task_002homework.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\task_002homework.dll
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\refint\task_002homework.dll
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\task_002homework.pdb
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\task_002homework.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\New_Seminar\task_002homework\obj\Debug\net6.0\ref\task_002homework.dll
