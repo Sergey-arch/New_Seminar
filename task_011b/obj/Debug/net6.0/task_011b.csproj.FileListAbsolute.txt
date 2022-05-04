@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\task_011b.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\task_011b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\task_011b.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\task_011b.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\task_011b.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\bin\Debug\net6.0\task_011b.exe
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\bin\Debug\net6.0\task_011b.deps.json
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\bin\Debug\net6.0\task_011b.runtimeconfig.json
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\bin\Debug\net6.0\task_011b.dll
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\bin\Debug\net6.0\task_011b.pdb
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\task_011b.dll
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\refint\task_011b.dll
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\task_011b.pdb
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\task_011b.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\New_Seminar\task_011b\obj\Debug\net6.0\ref\task_011b.dll
